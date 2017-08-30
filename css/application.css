@@ -27,7 +27,7 @@ a {
 .site-inner-abs {
   position: absolute;
   top: 0;
-  left: 50%;
+  left: 0;
   width: 58.75em;
   margin-left: -29.375em;
 }
